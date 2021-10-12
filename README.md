@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Vitaly
 
 - 🏡 I’m live in Russia, Velikiy Novgorod.
-- 🏢 I’m work at [mir.dev](https://mir.dev/).
 - 🤖 Most of the time I am writing on C++ and Python.
 - ⚡ Fun fact: big fan of oxxxymiron (google it).
 - ✉️ You can shoot me an telegram at [@vitalja](https://t.me/vitalja).
